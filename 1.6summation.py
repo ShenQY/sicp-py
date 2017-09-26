@@ -24,6 +24,3 @@ def sum_cubes(n):
 
 print sum_naturals(3)
 print sum_cubes(3)
-
-for x in xrange(1,10):
-	pass
