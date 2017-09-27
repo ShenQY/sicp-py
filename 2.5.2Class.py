@@ -1,4 +1,5 @@
 #encoding:utf-8
+#can run directly
 class Account(object):
 	"""docstring for Account"""
 	interest = 0

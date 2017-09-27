@@ -1,4 +1,5 @@
 #encoding:utf-8
+#can't run directly
 def make_instace(cls):
 	"""Return a new object instance,which is a dispatch dictionary"""
 	def get_value(name):
